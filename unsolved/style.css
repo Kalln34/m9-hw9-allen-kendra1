@@ -45,11 +45,11 @@ header {
 
 header a {
   font-size: 1.5rem;
-  color: darkmagenta;
+  color: blue;
 }
 
 main a {
-  color: mediumblue;
+  color: blue;
 }
 
 main > article, nav{
