@@ -45,11 +45,11 @@ header {
 
 header a {
   font-size: 1.5rem;
-  color: white;
+  color: var(--off-white);
 }
 
 main a {
-  color: darkblue;
+  color: var(--danger-color);
 }
 
 main > article, nav{
@@ -129,7 +129,7 @@ footer {
   text-align: center;
   text-transform: uppercase;
   padding: 24px 0;
-  color: white;
+  color: var(--off-white);
 }
 
 @media screen and (max-width: 500px) {
